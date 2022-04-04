@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Messing</string>
+    <string name="register">REGISTER</string>
+    <string name="if_you_have_already_account">if you have already account</string>
+    <string name="textview">TextView</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="start_conv">start conv</string>
+    <string name="username">username</string>
+    <string name="Username">Username</string>
+    <string name="send">send</string>
+    <string name="sign_out">sign out</string>
+    <string name="start_conversation">start conversation</string>
+
+</resources>
